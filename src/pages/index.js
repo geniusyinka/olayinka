@@ -4,9 +4,9 @@ import { Link } from "gatsby"
 export default () => (
 <div style={{ margin: `5rem auto`, maxWidth: 500 }}>    
 
-  <h1>Software Engineer / Photographer / Problem Solver!</h1>    
+  <h1>Olayinka Oshidipe</h1>    
 
-  <p>Navigate</p> 
+  <p>Software Engineer / Photographer / Problem Solver!</p> 
           Visit The      <Link to="/blog">Blog</Link>  
   </div>
 )
