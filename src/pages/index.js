@@ -6,7 +6,7 @@ export default () => (
 
   <h1>Olayinka Oshidipe</h1>    
 
-  <p>Software Engineer / Photographer / Problem Solver!</p> 
+  <center><p>Software Engineer / Photographer / Problem Solver!</p></center> 
           Visit The      <Link to="/blog">Blog</Link>  
   </div>
 )
