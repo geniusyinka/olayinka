@@ -1,6 +1,8 @@
 import React from "react"
 import { Link } from "gatsby"
 
+import Layout from "../components/layout"
+
 export default () => (
 <div style={{ margin: `5rem auto`, maxWidth: 500 }}>    
 
